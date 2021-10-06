@@ -5,6 +5,9 @@ A simple hardware test. The test accepts USB audio, Bluetooth, and line-in from 
  - STGL5000 (I2S) Input and Output
  - ESP32 Bluetooth Sink Input
 
+![Breadboard Image](image.png?raw=true "Title")
+
+
 The T4 code is credited to Alex6679
 https://github.com/alex6679/ESP32_I2S_Teensy4
 
