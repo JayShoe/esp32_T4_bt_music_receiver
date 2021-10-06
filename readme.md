@@ -24,3 +24,7 @@ The connections between the two boards are customizable on the ESP32 side. But t
 #define CONFIG_EXAMPLE_I2S_DATA_PIN 21 // (21 on huzzah32, IN2 pin 5 on T4.1)
 // T4.1 GND is connected to huzzah32 GND (down 4 on left side)
 ```
+[Teensy Pinouts](https://www.pjrc.com/teensy/pinout.html)
+
+
+[ESP32 Houzzah Pinouts](https://www.adafruit.com/product/3405)
